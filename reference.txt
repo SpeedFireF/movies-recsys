@@ -1,0 +1,4 @@
+https://towardsdatascience.com/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960 - introduction to topic
+https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377 - big inspiration for model and code
+https://arxiv.org/pdf/2002.02126.pdf - model explanation
+https://grouplens.org/datasets/movielens/ - dataset taken
